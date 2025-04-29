@@ -1,8 +1,5 @@
-# Logica-programacao
- Curso de lógica de programação em python
+# Analista de dados - Formação pela EBAC
+ -Primeira semana
 
- ## Aulas:
- - Aula 1:
- - Aula 2:
- - Aula 3:
- - Aula 4:
+ Aprendi programção python e linux, conseguir fazer minha primeira calculadora a feita no linux eu conseguir colocar ela para armazenar dados de contas q foram feitas, estou aprendendo a utilizar o git e pelo oque entendi é uma rede social mais profissional para a área da tecnologia.
+ 
